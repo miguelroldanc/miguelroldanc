@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @miguelroldanc, student of computer science at the University of Granada
+- 👋 Hi, I’m @miguelroldanc, student of computer science in the University of Granada
 - 👀 I’m interested in software development, artificial intelligence, distributed systems and big data.
 - 🌱 I’m currently learning techonologies such as functional programming, machine learning or neural networks.
 - 📫 How to reach me: contact me on miguelroldanc@gmail.com
