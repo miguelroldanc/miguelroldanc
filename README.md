@@ -1,5 +1,5 @@
 - 👋 Hey there, I’m @miguelroldanc, I'm data engineer and computer scientist from Spain.
-- 👀 I’m interested in machine learning, big data and deep learning.
+- 👀 I’m interested in data science, big data and deep learning.
 - 🌱 I’m currently looking for projects on computer vision, big data analytics and streaming data.
 - 🐧 Proud linux user.
 - 📫 You can contact me on miguelroldanc@gmail.com
